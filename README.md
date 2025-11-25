@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1103544770.svg)](https://doi.org/10.5281/zenodo.17712808)
+
 # Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks
 
 This repository contains code and data to reproduce the results of the paper 
@@ -38,7 +40,6 @@ This code requires `pytorch` available at https://pytorch.org/
 
 - `convergence_mode.ipynb` and `extensometer_mode.ipynb` contain the main active learning loop for adding convergence and extensometer measurements, respectively.  
 - Each notebook provides an illustrative example of the sequential training.
-
 
 <!-- ## Code citation
 
