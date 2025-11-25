@@ -4,7 +4,7 @@ This repository contains code and data to reproduce the results of the paper
 
 >**Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks**, by *Alec Tristani* and *Chloé Arson*
 
-In this study, we explore a sequential active learning strategy to best position field extensometer and convergence sensors to both reconstruct the displacement field and learn the rock mass constitutive parameters for a deep circular tunnel excavated in a transversely isotropic elastic ground.
+In this study, we explore a sequential active learning strategy to best position field extensometer and convergence sensors to both reconstruct the displacement field and learn the rock mass constitutive parameters for deep circular tunnels excavated in transversely isotropic elastic rocks.
 
 
 ## Requirements
