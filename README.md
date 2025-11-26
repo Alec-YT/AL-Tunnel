@@ -47,7 +47,7 @@ If you found this code useful in your work, please consider citing it:
 ```
 @misc{tristani2026activelearningtunnelcode,
   author       = {Tristani, Alec},
-  title        = {Active learning Tunnel},
+  title        = {Active Learning Tunnel},
   year         = 2025,
   doi          = {10.5281/zenodo.17712808},
   url          = https://doi.org/10.5281/zenodo.17712808,
