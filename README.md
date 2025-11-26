@@ -57,13 +57,11 @@ If you found this code useful in your work, please consider citing it:
 ## How to cite the associated paper
 
 ```
-@misc{tristani2025activelearningphysicsinformedneural,
+@article{tristani2025activelearningphysicsinformedneural,
       title={Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks}, 
       author={Alec Tristani and Chlo\'e Arson},
       year={2025},
-      eprint={2511.20574},
-      archivePrefix={arXiv},
-      primaryClass={physics.comp-ph},
-      url={https://arxiv.org/abs/2511.20574}, 
+      journal={arXiv preprint 2511.20574},
+      doi = {10.48550/arXiv.2511.20574},
 }
 ```
