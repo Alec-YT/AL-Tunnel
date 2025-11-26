@@ -38,18 +38,32 @@ This code requires `pytorch` available at https://pytorch.org/
 
 ## Usage
 
-- `convergence_mode.ipynb` and `extensometer_mode.ipynb` contain the main active learning loop for adding convergence and extensometer measurements, respectively.  
+- `convergence_mode.ipynb` and `extensometer_mode.ipynb` contain the main active learning loop for adding convergence and extensometer measurements, respectively.
 - Each notebook provides an illustrative example of the sequential training.
 
-<!-- ## Code citation
+## How to cite the code
 
-If you found this code useful, please consider citing it:
+If you found this code useful in your work, please consider citing it:
 ```
 @misc{tristani2026activelearningtunnelcode,
   author       = {Tristani, Alec},
-  title        = {Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks},
-  year         = 2026,
-  howpublished = {Code available at GitHub},
-  url          = {https://github.com/Alec-YT/Active-Learning-Tunnel},
+  title        = {Active learning Tunnel},
+  year         = 2025,
+  doi          = {10.5281/zenodo.17712808},
+  url          = https://doi.org/10.5281/zenodo.17712808,
 }
-``` -->
+```
+
+## How to cite the associated paper
+
+```
+@misc{tristani2025activelearningphysicsinformedneural,
+      title={Active learning with physics-informed neural networks for optimal sensor placement in deep tunneling through transversely isotropic elastic rocks}, 
+      author={Alec Tristani and Chlo\'e Arson},
+      year={2025},
+      eprint={2511.20574},
+      archivePrefix={arXiv},
+      primaryClass={physics.comp-ph},
+      url={https://arxiv.org/abs/2511.20574}, 
+}
+```
